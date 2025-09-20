@@ -39,13 +39,16 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  carousel_slider: 4.1.1
-
   # For API requests to Unsplash
   http: ^1.1.0
-
   # Optional: For icons and material widgets
   cupertino_icons: ^1.0.5
+  # Date formatting
+  intl: ^0.17.0
+  # Optional: open links (news)
+  url_launcher: ^6.1.10
+  google_fonts: ^6.2.1
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
